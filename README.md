@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I am Joshua 👋
+- 🎓 I am a Master’s Student in EECS at UC Berkeley
+- 🧠 I am currently learning advanced Computer Vision and Optimization
+- 🤖 I am currently working on [ROAR](https://roar.berkeley.edu/)
+- ✉️ How to reach me: [joshuasun@berkeley.edu](mailto:joshuasun@berkeley.edu)
+- 🎉 Fun fact: I finished my undergrad in 2 years
+## Projects
+- [Computer Vision](https://joshua-sun-compsci.github.io/cs280a/)  
+- [Trip Planner Agent](https://github.com/Angelinaaaaaaaaaaaa/Trip_Planner_Agent)  
+- [Academic Style LLM](https://github.com/Joshua-Sun-CompSci/academic-style-llms)  
+- [Black Jack AI](https://github.com/LimJH2002/BlackjackAI)  
+- [Capture The Flag](https://github.com/Joshua-Sun-CompSci/capture_the_flag)  
+- [Plants Versus Zombies](https://github.com/Joshua-Sun-CompSci/PVZ)  
 
-<!--
-**Joshua-Sun-CompSci/Joshua-Sun-CompSci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Samples
+- [Database Synchronization](https://github.com/Joshua-Sun-CompSci/Database-Synchronization)
