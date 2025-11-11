@@ -1,4 +1,4 @@
-## Hi, I am Joshua 👋
+## Hi, I'm Josh 👋
 - 🎓 I am a Master’s Student in EECS at UC Berkeley
 - 🧠 I am currently learning advanced Computer Vision and Optimization
 - 🤖 I am currently working on [ROAR](https://roar.berkeley.edu/)
