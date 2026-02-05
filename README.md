@@ -3,7 +3,7 @@
 - 🧠 I am currently learning advanced Computer Vision and Optimization
 - 🤖 I am currently working on [ROAR](https://roar.berkeley.edu/)
 - ✉️ How to reach me: [joshuasun@berkeley.edu](mailto:joshuasun@berkeley.edu)
-- 😎 Cool fact: I finished my undergrad in 2 years
+
 ## Live Projects
 - [Computer Vision](https://joshua-sun-compsci.github.io/cs280a/)  
 ## Open-Source Projects
