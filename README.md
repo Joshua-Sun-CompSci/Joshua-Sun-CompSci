@@ -5,7 +5,7 @@
 - ✉️ How to reach me: [joshuasun@berkeley.edu](mailto:joshuasun@berkeley.edu)
 
 ## Live Projects
-- [Computer Vision](https://joshua-sun-compsci.github.io/cs280a/)  
+- [Computer Vision](https://joshua-sun-compsci.github.io/cs-280a/)  
 ## Open-Source Projects
 - [Trip Planner Agent](https://github.com/Angelinaaaaaaaaaaaa/Trip_Planner_Agent)  
 - [Academic Style LLM](https://github.com/Joshua-Sun-CompSci/academic-style-llms)  
